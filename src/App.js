@@ -10,7 +10,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <Router basename={process.env.PUBLIC_URL}>
+        <Router basename='/NewsMonkey'>
           <Navbar />
           <Routes>
           <Route path='/' element={<News pageSize={5} key="general" country="in" category="general" /> } /> 
