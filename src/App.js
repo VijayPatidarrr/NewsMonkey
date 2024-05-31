@@ -5,11 +5,13 @@ import Navbar from "./components/Navbar";
 import News from "./components/News";
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom";
 
+const basePath = '/NewsMonkey'
+
 export default class App extends Component {
   render() {
     return (
       <div>
-        <Router>
+        <Router basename={basePath}>
           <Navbar />
           <Routes>
           <Route path='/' element={<News pageSize={5} key="general" country="in" category="general" /> } /> 
