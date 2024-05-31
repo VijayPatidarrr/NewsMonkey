@@ -31,7 +31,7 @@ export class News extends Component {
 
   async componentDidMount()
   {
-    let url=`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=438bdfefd2714c069339fc089dfaec47&pageSize=${this.props.pageSize}`;
+    let url = `/.netlify/functions/news?country=${this.props.country}&category=${this.props.category}&pageSize=${this.props.pageSize}`;
     let data;
     this.setState({loading:true})
     await axios
