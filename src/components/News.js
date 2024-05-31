@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import NewsItem from "./NewsItem";
 import Spinner from "./Spinner";
 import PropTypes from 'prop-types'
+import axios from "axios";
 
 export class News extends Component {
 
@@ -31,10 +32,14 @@ export class News extends Component {
   async componentDidMount()
   {
     let url=`https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=438bdfefd2714c069339fc089dfaec47&pageSize=${this.props.pageSize}`;
-
+    let data;
     this.setState({loading:true})
-    let data = await fetch(url);
-    let parsedData = await data.json();
+    await axios
+      .get(url)
+      .then(function(res){
+        data = res.data;
+      })
+    let parsedData = data;
     console.log(parsedData);
      this.setState({loading:true})
     this.setState({articles:parsedData.articles,totalResults:parsedData.totalResults,loading:false})
