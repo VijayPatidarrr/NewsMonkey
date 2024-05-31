@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 9677,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CleanTechnica"
+    },
+    "author": "Chris Boylan",
+    "title": "Tesla’s Workaround To Unfriendly States? Build Showrooms On Tribal Lands",
+    "description": "Over Tesla’s 20 years in business, the company has ruffled a few feathers from those who want to maintain the status quo. Of course, traditional automakers and fossil fuel companies were opposed to Tesla’s very existence from the beginning, for obvious reason…",
+    "url": "https://cleantechnica.com/2023/08/01/teslasworkaroundtounfriendlystatesbuildshowroomsontriballands/",
+    "urlToImage": "http://cleantechnica.com/files/2023/08/Sales_99teslashowroomfeatured.jpg",
+    "publishedAt": "20230802T02:21:08Z",
+    "content": "Over Tesla’s 20 years in business, the company has ruffled a few feathers from those who want to maintain the status quo. Of course, traditional automakers and fossil fuel companies were opposed to T… [+6976 chars]"
+    },
+    {
+    "source": {
+    "id": "thetimesofindia",
+    "name": "The Times of India"
+    },
+    "author": "Reuters",
+    "title": "S&P 500, Nasdaq end lower on first day of August in busy earnings week",
+    "description": "Among pharmaceutical heavyweights, Pfizer edged lower in choppy trading after the drugmaker's quarterly revenue fell short of Wall Street expectations, hit by declining sales of its COVID19 products.",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/sp500nasdaqendloweronfirstdayofaugustinbusyearningsweek/articleshow/102332438.cms",
+    "urlToImage": "https://img.etimg.com/thumb/msid102332453,width1070,height580,imgsize50410,overlayetmarkets/photo.jpg",
+    "publishedAt": "20230802T02:15:11Z",
+    "content": "The S&amp;P 500 and Nasdaq closed weaker on Tuesday, the first day of seasonally slow August, ahead of U.S. jobs data and major companies' earnings reports later this week.U.S. stocks ended July on a… [+2486 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "aol.com",
+    "title": "California 13yearold girl totals parents' Tesla in Santa Rosa crash: police",
+    "description": "A 13yearold girl in California crashed her parents' Tesla in an early Tuesday morning collision, police say. Santa Rosa Police Department reported that officers were dispatched to a major collision at around 4:35 a.m. Tuesday. They found a \"severely damaged…",
+    "url": "https://biztoc.com/x/98b47d71660432dc",
+    "urlToImage": "https://c.biztoc.com/p/98b47d71660432dc/s.webp",
+    "publishedAt": "20230802T01:48:05Z",
+    "content": "A 13yearold girl in California crashed her parents' Tesla in an early Tuesday morning collision, police say.Santa Rosa Police Department reported that officers were dispatched to a major collision … [+240 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "thestreet.com",
+    "title": "Chevy Hands Tesla a Gift By Killing a Model Y Rival",
+    "description": "Tesla is by far the leading electric vehicle maker in the US and worldwide. The Austin, Texas, EV company has already set a record with about 889,000 cars delivered in the first half of 2023, and its Model Y sports utility vehicle also became the world's best…",
+    "url": "https://biztoc.com/x/6d53a0f404c3e397",
+    "urlToImage": "https://c.biztoc.com/p/6d53a0f404c3e397/s.webp",
+    "publishedAt": "20230802T01:30:08Z",
+    "content": "Tesla is by far the leading electric vehicle maker in the US and worldwide. The Austin, Texas, EV company has already set a record with about 889,000 cars delivered in the first half of 2023, and its… [+284 chars]"
+    }
+    ]
+    }
