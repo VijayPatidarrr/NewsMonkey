@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://vijaypatidarrr.github.io/NewsMonkey/static/css/main.f855e6bc.css",
+    "main.js": "https://vijaypatidarrr.github.io/NewsMonkey/static/js/main.439b21b7.js",
+    "static/js/787.6643f1c0.chunk.js": "https://vijaypatidarrr.github.io/NewsMonkey/static/js/787.6643f1c0.chunk.js",
+    "index.html": "https://vijaypatidarrr.github.io/NewsMonkey/index.html",
+    "main.f855e6bc.css.map": "https://vijaypatidarrr.github.io/NewsMonkey/static/css/main.f855e6bc.css.map",
+    "main.439b21b7.js.map": "https://vijaypatidarrr.github.io/NewsMonkey/static/js/main.439b21b7.js.map",
+    "787.6643f1c0.chunk.js.map": "https://vijaypatidarrr.github.io/NewsMonkey/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.439b21b7.js"
+  ]
+}
